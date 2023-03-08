@@ -1,4 +1,5 @@
-# Final-task
+# Final-task 
+[Ссылка на Google диск](https://drive.google.com/drive/folders/1vmPFvG8mbKIMUPl51OpGyKoFdWwDNubz?usp=share_link)
 
 # Project1. [Game: Guess the number](https://github.com/RinaGlin/Final-task/blob/master/gamev2test.py)
 
