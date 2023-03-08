@@ -3,17 +3,17 @@
 # Project1. [Game: Guess the number](https://github.com/RinaGlin/Final-task/blob/master/gamev2test.py)
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/RinaGlin/Final-task#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/RinaGlin/Final-task#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/RinaGlin/Final-task#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/RinaGlin/Final-task#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/RinaGlin/Final-task#результаты)    
+[6. Выводы](https://github.com/RinaGlin/Final-task#выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число не более чем за 20 попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/RinaGlin/Final-task#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -33,7 +33,7 @@
 ### Краткая информация о данных
 Теоретический материал курса.
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/RinaGlin/Final-task#оглавление)
 
 
 ### Этапы работы над проектом  
@@ -41,19 +41,19 @@
 2. Тестирование. 
 3. Загрузка проекта на GitHub.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/RinaGlin/Final-task#оглавление)
 
 
 ### Результаты:  
 Код работает.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/RinaGlin/Final-task#оглавление)
 
 
 ### Выводы:  
 Смекалка в Python имеет большое значение. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/RinaGlin/Final-task#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
